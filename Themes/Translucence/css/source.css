@@ -11,7 +11,7 @@
   --messages-color: rgba(0,0,0,0.4);
   --messages-radius: var(--app-radius);
   --mention-color: var(--app-accent);
-  --textarea-color: 0,0,0;
+  --textarea-color: #ffffff00;
   --textarea-text-color: #fff;
   --textarea-radius: 22px;
   --input-height: 36px;
